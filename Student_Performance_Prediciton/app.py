@@ -3,7 +3,7 @@ import pickle
 
 app = Flask(__name__)
 
-model = pickle.load(open(r"C:/Users/sarathy/AI _ML_Training/Day 9/Student_Performance/data/student_performance.pkl", 'rb'))
+model = pickle.load(open(r"C:/Users/deva/AI _ML_Training/Day 9/Student_Performance/data/student_performance.pkl", 'rb'))
 
 @app.route('/')
 def home():

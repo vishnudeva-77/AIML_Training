@@ -73,4 +73,3 @@ st.subheader("Input Values:")
 st.write(input_df)
 st.subheader("Training Data:")
 st.dataframe(df)
-

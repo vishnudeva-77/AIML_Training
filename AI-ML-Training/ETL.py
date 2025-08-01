@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import logging
 import pandas as pd
 import numpy as np
@@ -71,7 +65,7 @@ logging.info("Data cleaning completed.")
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="sarathy",
+    password="deva",
     database="employee"  # Replace with your actual DB name
 )
 
