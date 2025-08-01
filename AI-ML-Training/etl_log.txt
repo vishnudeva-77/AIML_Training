@@ -1,0 +1,2 @@
+2025-07-31 15:49:14,080 - INFO - CSV loaded successfully.
+2025-07-31 15:49:14,113 - INFO - Data cleaning completed.
